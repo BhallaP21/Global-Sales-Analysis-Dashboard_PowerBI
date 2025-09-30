@@ -24,7 +24,9 @@ The dashboard provides insights into sales performance across regions, products,
 ---
 
 ## 🔹 Dashboard Preview  
+![](screenshots/dashboard_overview.png)
 
+![](
 ---
 
 ---
