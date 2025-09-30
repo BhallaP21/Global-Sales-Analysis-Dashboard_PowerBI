@@ -26,10 +26,11 @@ The dashboard provides insights into sales performance across regions, products,
 ## 🔹 Dashboard Preview  
 ![](screenshots/dashboard_overview.png)
 
-![](
----
+![](screenshots/dashnoard_topselling_products.png)
+
 
 ---
+
 
 ## 🔹 Repository Contents  
 - `Global_Sales_Analysis.pbix` → Power BI dashboard file  
@@ -40,5 +41,5 @@ The dashboard provides insights into sales performance across regions, products,
 ---
 
 ## 🔹 Author  
-👤 **Your Name**  
-🔗 [LinkedIn](#) | [Portfolio](#) | [Email](#)  
+👤 **Parth Bhalla**  
+🔗 [LinkedIn](https://www.linkedin.com/in/parth-bhalla-a00a56235/) | [Portfolio](#) | [Email](#)  
