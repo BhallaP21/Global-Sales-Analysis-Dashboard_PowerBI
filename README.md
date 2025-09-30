@@ -42,4 +42,4 @@ The dashboard provides insights into sales performance across regions, products,
 
 ## 🔹 Author  
 👤 **Parth Bhalla**  
-🔗 [LinkedIn](https://www.linkedin.com/in/parth-bhalla-a00a56235/) | [Portfolio](#) | [Email](#)  
+🔗 [LinkedIn](https://www.linkedin.com/in/parth-bhalla-a00a56235/) | [Portfolio](https://github.com/BhallaP21)
